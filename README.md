@@ -14,8 +14,7 @@
 
 ### 🕵 Take a look at my repositories and let's get in touch!<br>
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/nworie-kingsley/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/nworie-kingsley//)](https://www.linkedin.com/in/https://www.linkedin.com/in/nworie-kingsley//) 
+[![Linkedin Badge](https://img.shields.io/badge/-nworieKingsley-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nworie-kingsley//) 
 [![Twitter Badge](https://img.shields.io/badge/-@https://twitter.com/nworiekingslee-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/https://twitter.com/nworiekingslee)](https://twitter.com/https://twitter.com/nworiekingslee) 
 
 
