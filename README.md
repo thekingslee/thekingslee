@@ -16,6 +16,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-NworieKingsley-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nworie-kingsley//) 
 [![Twitter Badge](https://img.shields.io/badge/-@nworiekingslee-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nworiekingslee)](https://twitter.com/nworiekingslee) 
+[![website](https://img.shields.io/badge/-Kingslee.me-151515?style=flat-square&labelColor=151515&link=https://www.kingslee.me)](https://www.kingslee.me) 
 
 <br>
 
