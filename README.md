@@ -1,5 +1,5 @@
 
-# Hi, I am Kingslee <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="3%">
+# Hi, I am Kingslee <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="20%">
 <br>
 
 ![](https://komarev.com/ghpvc/?username=nworiekingslee&color=blue)<br>
