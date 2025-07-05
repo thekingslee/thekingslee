@@ -12,9 +12,9 @@ I’m a software engineer with 4+ years of experience designing and shipping ful
 ### Current Projects & Involvement
 
 - **BigShelf** – Making books more accessible to Nigerian reader and building a community around the culture of reading.
-- **Nigerian ID Verification** – Building an ML solution that understands the Nigerian ID document, able to classify and infer it's authenticity.
-- **ShadCN UI Course** – Working on a course to teach my tricks of building frontend applications at rocket speed. 
-- 🗣️ Speaker at local JS & AI meetups
+- **Nigerian ID Verification** – Building an ML solution that understands the Nigerian ID document, able to classify and verify the authenticity of Nigerian ID documents. .
+- **ShadCN UI Course** –   Crafting a hands‑on course to share my tips for building frontend applications at rocket speed. 
+- 🗣️ Speaker at JS & AI meetups
 
 
 
@@ -22,5 +22,5 @@ I’m a software engineer with 4+ years of experience designing and shipping ful
 ### Let’s Connect 📫 
 
 - GitHub Issues & PRs are always welcome  
-- Tweet me: [@theKingsley](https://twitter.com/thekingslee)   
+- Tweet me: [@theKingslee](https://twitter.com/thekingslee)   
 
