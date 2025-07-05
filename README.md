@@ -1,4 +1,4 @@
-# 👋 Hey, I’m The Kingslee
+# I’m The Kingslee
 
 **Web & ML Engineer • Open‑Source Advocate • [GitHub Campus Expert](https://githubcampus.expert/thekingslee/)**
 
