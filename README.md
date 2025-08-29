@@ -3,7 +3,7 @@
 **Web & ML Engineer • Open‑Source Advocate • [GitHub Campus Expert](https://githubcampus.expert/thekingslee/)**
 
 
-I’m a software engineer with 4+ years of experience designing and shipping fullstack products, now bridging into Machine Learning for real‑world impact. An hackathon finalist, I love turning ambitious ideas into polished, usable apps.
+I’m a software engineer with 4+ years of experience designing and shipping fullstack products, now bridging into Machine Learning for real‑world impact. 2X hackathon finalist, I love turning ambitious ideas into polished, usable apps.
 
 
 
