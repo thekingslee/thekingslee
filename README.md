@@ -10,13 +10,17 @@ My work spans LLM research, NLP, machine learning systems, backend engineering, 
 
 ### Current Work 
 - **[Building an LLM From Scratch](https://github.com/thekingslee/build-an-llm)** — End-to-end LLM research project rebuilding GPT-1 from scratch on Nigerian-context data, spanning data engineering, the published **[9ja-BookCorpus](https://huggingface.co/datasets/thekingslee/9ja-bookcorpus)** dataset, custom training infrastructure, and model-scale experimentation. 
-
 - **[Small Language Model Research](https://github.com/thekingslee/build-an-llm/blob/feat/pretraining-eval/docs/evals/pretraining_report.md)** — Investigating what small language models learn beyond observable prompting performance through probing, NLI, MMLU, and representation analysis.
 
 ### Technical Focus 
 - **Machine Learning & AI** `PyTorch` · `TensorFlow` · `Hugging Face` · `LLMs` · `NLP` · `Transformers` · `Computer Vision` · `Model Evaluation`
 - **Backend & Systems** `Python` · `FastAPI` · `Node.js` · `TypeScript` · `Redis` · `MySQL` · `Docker` · `AWS`
 - **Research & Data** `Model Training` · `Dataset Engineering` · `Benchmarking` · `Ablation Studies` · `Representation Probing` · `Data Pipelines`
+
+
+____
+
+
 
 ### Other Projects & Involvement
 - **[BigShelf](https://mybigshelf.com/)** – Making books more accessible to Nigerian reader and building a community around the culture of reading.
